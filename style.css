@@ -11,6 +11,15 @@ span{
     color: #fff;
 }
 
+section {
+    display: flex;
+    flex-direction: row;
+    height: 250vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
 div {
     font-weight: bolder;
 }
